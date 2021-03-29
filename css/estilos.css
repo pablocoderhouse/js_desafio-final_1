@@ -1,0 +1,10 @@
+.control-label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.btn {
+    margin-top: 20px;
+}
+.card-body {
+    background-color: rgb(89, 204, 166);
+}
